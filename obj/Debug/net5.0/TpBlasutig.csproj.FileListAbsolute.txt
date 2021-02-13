@@ -1,0 +1,16 @@
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.exe
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.deps.json
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.runtimeconfig.json
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.runtimeconfig.dev.json
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.dll
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\ref\TpBlasutig.dll
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\bin\Debug\net5.0\TpBlasutig.pdb
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.csprojAssemblyReference.cache
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.AssemblyInfo.cs
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.dll
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\ref\TpBlasutig.dll
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.pdb
+C:\Users\a\Desktop\c\TpBlasutigGIT\TpBlasutig\obj\Debug\net5.0\TpBlasutig.genruntimeconfig.cache
